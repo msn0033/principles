@@ -1,0 +1,15 @@
+D:\principles-main\003FavorCompositionOverInheritance\bin\Debug\net6.0\003FavorCompositionOverInheritance.exe
+D:\principles-main\003FavorCompositionOverInheritance\bin\Debug\net6.0\003FavorCompositionOverInheritance.deps.json
+D:\principles-main\003FavorCompositionOverInheritance\bin\Debug\net6.0\003FavorCompositionOverInheritance.runtimeconfig.json
+D:\principles-main\003FavorCompositionOverInheritance\bin\Debug\net6.0\003FavorCompositionOverInheritance.dll
+D:\principles-main\003FavorCompositionOverInheritance\bin\Debug\net6.0\003FavorCompositionOverInheritance.pdb
+D:\principles-main\003FavorCompositionOverInheritance\obj\Debug\net6.0\003FavorCompositionOverInheritance.csproj.AssemblyReference.cache
+D:\principles-main\003FavorCompositionOverInheritance\obj\Debug\net6.0\003FavorCompositionOverInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\principles-main\003FavorCompositionOverInheritance\obj\Debug\net6.0\003FavorCompositionOverInheritance.AssemblyInfoInputs.cache
+D:\principles-main\003FavorCompositionOverInheritance\obj\Debug\net6.0\003FavorCompositionOverInheritance.AssemblyInfo.cs
+D:\principles-main\003FavorCompositionOverInheritance\obj\Debug\net6.0\003FavorCompositionOverInheritance.csproj.CoreCompileInputs.cache
+D:\principles-main\003FavorCompositionOverInheritance\obj\Debug\net6.0\003FavorCompositionOverInheritance.dll
+D:\principles-main\003FavorCompositionOverInheritance\obj\Debug\net6.0\refint\003FavorCompositionOverInheritance.dll
+D:\principles-main\003FavorCompositionOverInheritance\obj\Debug\net6.0\003FavorCompositionOverInheritance.pdb
+D:\principles-main\003FavorCompositionOverInheritance\obj\Debug\net6.0\003FavorCompositionOverInheritance.genruntimeconfig.cache
+D:\principles-main\003FavorCompositionOverInheritance\obj\Debug\net6.0\ref\003FavorCompositionOverInheritance.dll
