@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KMIxNbIJ7qUoz0hw44DrOGjgscBvGTkk07yNcL/MSxtNYBtZ6VhQUzdwZgQaeXpYrny2j6QbJR3RKi6j3/t4pg==",
+  "dgSpecHash": "V6G1BvItElOLGhh2RiIkhVZU9yeVRrH3FHyhP6eGJh80GS5NnpWvJ0nk8eaXJxB8djCPAOLVGUY+LZNwyjOQGQ==",
   "success": true,
-  "projectFilePath": "D:\\principles-main\\003FavorCompositionOverInheritance\\003FavorCompositionOverInheritance.csproj",
+  "projectFilePath": "D:\\Clean Code\\principles\\003FavorCompositionOverInheritance\\003FavorCompositionOverInheritance.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

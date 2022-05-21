@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wQKdZvYAlYXgbMlOhgiAPuX/vBPzYJUzdFSdS0LOlYsL3ik3eqA65VjhQRPatRsd48tVDg+uz0qQL0n+ZVNS1Q==",
+  "dgSpecHash": "ia8RW5FtaZ8NNK7S2kgvbYXC2uNg8b3Tvlz92qzY85jh3KApI1mN8/8lcuBgwdARkpsTdimqZ+VFqLhxI9EWEg==",
   "success": true,
-  "projectFilePath": "D:\\principles-main\\002EncapsulateWhatVaries\\002EncapsulateWhatVaries.csproj",
+  "projectFilePath": "D:\\Clean Code\\principles\\002EncapsulateWhatVaries\\002EncapsulateWhatVaries.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\principles-main\\003FavorCompositionOverInheritance\\003FavorCompositionOverInheritance.csproj": {}
+    "D:\\Clean Code\\principles\\003FavorCompositionOverInheritance\\003FavorCompositionOverInheritance.csproj": {}
   },
   "projects": {
-    "D:\\principles-main\\003FavorCompositionOverInheritance\\003FavorCompositionOverInheritance.csproj": {
+    "D:\\Clean Code\\principles\\003FavorCompositionOverInheritance\\003FavorCompositionOverInheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\principles-main\\003FavorCompositionOverInheritance\\003FavorCompositionOverInheritance.csproj",
+        "projectUniqueName": "D:\\Clean Code\\principles\\003FavorCompositionOverInheritance\\003FavorCompositionOverInheritance.csproj",
         "projectName": "003FavorCompositionOverInheritance",
-        "projectPath": "D:\\principles-main\\003FavorCompositionOverInheritance\\003FavorCompositionOverInheritance.csproj",
-        "packagesPath": "C:\\Users\\murad\\.nuget\\packages\\",
-        "outputPath": "D:\\principles-main\\003FavorCompositionOverInheritance\\obj\\",
+        "projectPath": "D:\\Clean Code\\principles\\003FavorCompositionOverInheritance\\003FavorCompositionOverInheritance.csproj",
+        "packagesPath": "C:\\Users\\msn_0\\.nuget\\packages\\",
+        "outputPath": "D:\\Clean Code\\principles\\003FavorCompositionOverInheritance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\murad\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\msn_0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-preview.4.22252.9\\RuntimeIdentifierGraph.json"
         }
       }
     }

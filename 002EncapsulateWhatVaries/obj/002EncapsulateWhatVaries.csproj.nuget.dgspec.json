@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\principles-main\\002EncapsulateWhatVaries\\002EncapsulateWhatVaries.csproj": {}
+    "D:\\Clean Code\\principles\\002EncapsulateWhatVaries\\002EncapsulateWhatVaries.csproj": {}
   },
   "projects": {
-    "D:\\principles-main\\002EncapsulateWhatVaries\\002EncapsulateWhatVaries.csproj": {
+    "D:\\Clean Code\\principles\\002EncapsulateWhatVaries\\002EncapsulateWhatVaries.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\principles-main\\002EncapsulateWhatVaries\\002EncapsulateWhatVaries.csproj",
+        "projectUniqueName": "D:\\Clean Code\\principles\\002EncapsulateWhatVaries\\002EncapsulateWhatVaries.csproj",
         "projectName": "002EncapsulateWhatVaries",
-        "projectPath": "D:\\principles-main\\002EncapsulateWhatVaries\\002EncapsulateWhatVaries.csproj",
-        "packagesPath": "C:\\Users\\murad\\.nuget\\packages\\",
-        "outputPath": "D:\\principles-main\\002EncapsulateWhatVaries\\obj\\",
+        "projectPath": "D:\\Clean Code\\principles\\002EncapsulateWhatVaries\\002EncapsulateWhatVaries.csproj",
+        "packagesPath": "C:\\Users\\msn_0\\.nuget\\packages\\",
+        "outputPath": "D:\\Clean Code\\principles\\002EncapsulateWhatVaries\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\murad\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\msn_0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-preview.4.22252.9\\RuntimeIdentifierGraph.json"
         }
       }
     }

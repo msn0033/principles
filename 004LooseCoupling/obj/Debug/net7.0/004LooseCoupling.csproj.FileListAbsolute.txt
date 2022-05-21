@@ -1,0 +1,15 @@
+D:\Clean Code\principles\004LooseCoupling\bin\Debug\net7.0\004LooseCoupling.exe
+D:\Clean Code\principles\004LooseCoupling\bin\Debug\net7.0\004LooseCoupling.deps.json
+D:\Clean Code\principles\004LooseCoupling\bin\Debug\net7.0\004LooseCoupling.runtimeconfig.json
+D:\Clean Code\principles\004LooseCoupling\bin\Debug\net7.0\004LooseCoupling.dll
+D:\Clean Code\principles\004LooseCoupling\bin\Debug\net7.0\004LooseCoupling.pdb
+D:\Clean Code\principles\004LooseCoupling\obj\Debug\net7.0\004LooseCoupling.csproj.AssemblyReference.cache
+D:\Clean Code\principles\004LooseCoupling\obj\Debug\net7.0\004LooseCoupling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clean Code\principles\004LooseCoupling\obj\Debug\net7.0\004LooseCoupling.AssemblyInfoInputs.cache
+D:\Clean Code\principles\004LooseCoupling\obj\Debug\net7.0\004LooseCoupling.AssemblyInfo.cs
+D:\Clean Code\principles\004LooseCoupling\obj\Debug\net7.0\004LooseCoupling.csproj.CoreCompileInputs.cache
+D:\Clean Code\principles\004LooseCoupling\obj\Debug\net7.0\004LooseCoupling.dll
+D:\Clean Code\principles\004LooseCoupling\obj\Debug\net7.0\refint\004LooseCoupling.dll
+D:\Clean Code\principles\004LooseCoupling\obj\Debug\net7.0\004LooseCoupling.pdb
+D:\Clean Code\principles\004LooseCoupling\obj\Debug\net7.0\004LooseCoupling.genruntimeconfig.cache
+D:\Clean Code\principles\004LooseCoupling\obj\Debug\net7.0\ref\004LooseCoupling.dll
