@@ -1,0 +1,15 @@
+D:\Clean Code\principles\005 SOLID - Single Responsibility Principle [SRP]\bin\Debug\net7.0\005 SOLID - Single Responsibility Principle [SRP].exe
+D:\Clean Code\principles\005 SOLID - Single Responsibility Principle [SRP]\bin\Debug\net7.0\005 SOLID - Single Responsibility Principle [SRP].deps.json
+D:\Clean Code\principles\005 SOLID - Single Responsibility Principle [SRP]\bin\Debug\net7.0\005 SOLID - Single Responsibility Principle [SRP].runtimeconfig.json
+D:\Clean Code\principles\005 SOLID - Single Responsibility Principle [SRP]\bin\Debug\net7.0\005 SOLID - Single Responsibility Principle [SRP].dll
+D:\Clean Code\principles\005 SOLID - Single Responsibility Principle [SRP]\bin\Debug\net7.0\005 SOLID - Single Responsibility Principle [SRP].pdb
+D:\Clean Code\principles\005 SOLID - Single Responsibility Principle [SRP]\obj\Debug\net7.0\005 SOLID - Single Responsibility Principle [SRP].csproj.AssemblyReference.cache
+D:\Clean Code\principles\005 SOLID - Single Responsibility Principle [SRP]\obj\Debug\net7.0\005 SOLID - Single Responsibility Principle [SRP].GeneratedMSBuildEditorConfig.editorconfig
+D:\Clean Code\principles\005 SOLID - Single Responsibility Principle [SRP]\obj\Debug\net7.0\005 SOLID - Single Responsibility Principle [SRP].AssemblyInfoInputs.cache
+D:\Clean Code\principles\005 SOLID - Single Responsibility Principle [SRP]\obj\Debug\net7.0\005 SOLID - Single Responsibility Principle [SRP].AssemblyInfo.cs
+D:\Clean Code\principles\005 SOLID - Single Responsibility Principle [SRP]\obj\Debug\net7.0\005 SOLID - Single Responsibility Principle [SRP].csproj.CoreCompileInputs.cache
+D:\Clean Code\principles\005 SOLID - Single Responsibility Principle [SRP]\obj\Debug\net7.0\005 SOLID - Single Responsibility Principle [SRP].dll
+D:\Clean Code\principles\005 SOLID - Single Responsibility Principle [SRP]\obj\Debug\net7.0\refint\005 SOLID - Single Responsibility Principle [SRP].dll
+D:\Clean Code\principles\005 SOLID - Single Responsibility Principle [SRP]\obj\Debug\net7.0\005 SOLID - Single Responsibility Principle [SRP].pdb
+D:\Clean Code\principles\005 SOLID - Single Responsibility Principle [SRP]\obj\Debug\net7.0\005 SOLID - Single Responsibility Principle [SRP].genruntimeconfig.cache
+D:\Clean Code\principles\005 SOLID - Single Responsibility Principle [SRP]\obj\Debug\net7.0\ref\005 SOLID - Single Responsibility Principle [SRP].dll
