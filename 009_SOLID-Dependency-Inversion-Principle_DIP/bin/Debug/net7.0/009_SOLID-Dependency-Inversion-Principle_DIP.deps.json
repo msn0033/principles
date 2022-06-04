@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "009_SOLID-Dependency-Inversion-Principle_DIP/1.0.0": {
+        "runtime": {
+          "009_SOLID-Dependency-Inversion-Principle_DIP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "009_SOLID-Dependency-Inversion-Principle_DIP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

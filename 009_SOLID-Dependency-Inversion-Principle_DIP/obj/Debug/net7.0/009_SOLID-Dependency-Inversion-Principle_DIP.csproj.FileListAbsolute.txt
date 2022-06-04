@@ -1,0 +1,15 @@
+D:\Clean Code\principles\009_SOLID-Dependency-Inversion-Principle_DIP\bin\Debug\net7.0\009_SOLID-Dependency-Inversion-Principle_DIP.exe
+D:\Clean Code\principles\009_SOLID-Dependency-Inversion-Principle_DIP\bin\Debug\net7.0\009_SOLID-Dependency-Inversion-Principle_DIP.deps.json
+D:\Clean Code\principles\009_SOLID-Dependency-Inversion-Principle_DIP\bin\Debug\net7.0\009_SOLID-Dependency-Inversion-Principle_DIP.runtimeconfig.json
+D:\Clean Code\principles\009_SOLID-Dependency-Inversion-Principle_DIP\bin\Debug\net7.0\009_SOLID-Dependency-Inversion-Principle_DIP.dll
+D:\Clean Code\principles\009_SOLID-Dependency-Inversion-Principle_DIP\bin\Debug\net7.0\009_SOLID-Dependency-Inversion-Principle_DIP.pdb
+D:\Clean Code\principles\009_SOLID-Dependency-Inversion-Principle_DIP\obj\Debug\net7.0\009_SOLID-Dependency-Inversion-Principle_DIP.csproj.AssemblyReference.cache
+D:\Clean Code\principles\009_SOLID-Dependency-Inversion-Principle_DIP\obj\Debug\net7.0\009_SOLID-Dependency-Inversion-Principle_DIP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clean Code\principles\009_SOLID-Dependency-Inversion-Principle_DIP\obj\Debug\net7.0\009_SOLID-Dependency-Inversion-Principle_DIP.AssemblyInfoInputs.cache
+D:\Clean Code\principles\009_SOLID-Dependency-Inversion-Principle_DIP\obj\Debug\net7.0\009_SOLID-Dependency-Inversion-Principle_DIP.AssemblyInfo.cs
+D:\Clean Code\principles\009_SOLID-Dependency-Inversion-Principle_DIP\obj\Debug\net7.0\009_SOLID-Dependency-Inversion-Principle_DIP.csproj.CoreCompileInputs.cache
+D:\Clean Code\principles\009_SOLID-Dependency-Inversion-Principle_DIP\obj\Debug\net7.0\009_SOLID-Dependency-Inversion-Principle_DIP.dll
+D:\Clean Code\principles\009_SOLID-Dependency-Inversion-Principle_DIP\obj\Debug\net7.0\refint\009_SOLID-Dependency-Inversion-Principle_DIP.dll
+D:\Clean Code\principles\009_SOLID-Dependency-Inversion-Principle_DIP\obj\Debug\net7.0\009_SOLID-Dependency-Inversion-Principle_DIP.pdb
+D:\Clean Code\principles\009_SOLID-Dependency-Inversion-Principle_DIP\obj\Debug\net7.0\009_SOLID-Dependency-Inversion-Principle_DIP.genruntimeconfig.cache
+D:\Clean Code\principles\009_SOLID-Dependency-Inversion-Principle_DIP\obj\Debug\net7.0\ref\009_SOLID-Dependency-Inversion-Principle_DIP.dll

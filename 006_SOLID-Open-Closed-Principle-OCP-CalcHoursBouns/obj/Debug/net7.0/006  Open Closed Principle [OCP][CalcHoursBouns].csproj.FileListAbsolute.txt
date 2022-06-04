@@ -1,0 +1,15 @@
+D:\Clean Code\principles\006  Open Closed Principle [OCP][CalcHoursBouns]\bin\Debug\net7.0\006  Open Closed Principle [OCP][CalcHoursBouns].exe
+D:\Clean Code\principles\006  Open Closed Principle [OCP][CalcHoursBouns]\bin\Debug\net7.0\006  Open Closed Principle [OCP][CalcHoursBouns].deps.json
+D:\Clean Code\principles\006  Open Closed Principle [OCP][CalcHoursBouns]\bin\Debug\net7.0\006  Open Closed Principle [OCP][CalcHoursBouns].runtimeconfig.json
+D:\Clean Code\principles\006  Open Closed Principle [OCP][CalcHoursBouns]\bin\Debug\net7.0\006  Open Closed Principle [OCP][CalcHoursBouns].dll
+D:\Clean Code\principles\006  Open Closed Principle [OCP][CalcHoursBouns]\bin\Debug\net7.0\006  Open Closed Principle [OCP][CalcHoursBouns].pdb
+D:\Clean Code\principles\006  Open Closed Principle [OCP][CalcHoursBouns]\obj\Debug\net7.0\006  Open Closed Principle [OCP][CalcHoursBouns].csproj.AssemblyReference.cache
+D:\Clean Code\principles\006  Open Closed Principle [OCP][CalcHoursBouns]\obj\Debug\net7.0\006  Open Closed Principle [OCP][CalcHoursBouns].GeneratedMSBuildEditorConfig.editorconfig
+D:\Clean Code\principles\006  Open Closed Principle [OCP][CalcHoursBouns]\obj\Debug\net7.0\006  Open Closed Principle [OCP][CalcHoursBouns].AssemblyInfoInputs.cache
+D:\Clean Code\principles\006  Open Closed Principle [OCP][CalcHoursBouns]\obj\Debug\net7.0\006  Open Closed Principle [OCP][CalcHoursBouns].AssemblyInfo.cs
+D:\Clean Code\principles\006  Open Closed Principle [OCP][CalcHoursBouns]\obj\Debug\net7.0\006  Open Closed Principle [OCP][CalcHoursBouns].csproj.CoreCompileInputs.cache
+D:\Clean Code\principles\006  Open Closed Principle [OCP][CalcHoursBouns]\obj\Debug\net7.0\006  Open Closed Principle [OCP][CalcHoursBouns].dll
+D:\Clean Code\principles\006  Open Closed Principle [OCP][CalcHoursBouns]\obj\Debug\net7.0\refint\006  Open Closed Principle [OCP][CalcHoursBouns].dll
+D:\Clean Code\principles\006  Open Closed Principle [OCP][CalcHoursBouns]\obj\Debug\net7.0\006  Open Closed Principle [OCP][CalcHoursBouns].pdb
+D:\Clean Code\principles\006  Open Closed Principle [OCP][CalcHoursBouns]\obj\Debug\net7.0\006  Open Closed Principle [OCP][CalcHoursBouns].genruntimeconfig.cache
+D:\Clean Code\principles\006  Open Closed Principle [OCP][CalcHoursBouns]\obj\Debug\net7.0\ref\006  Open Closed Principle [OCP][CalcHoursBouns].dll

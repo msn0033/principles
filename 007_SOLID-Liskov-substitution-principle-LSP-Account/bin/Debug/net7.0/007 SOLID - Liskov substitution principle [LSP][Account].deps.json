@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "007 SOLID - Liskov substitution principle [LSP][Account]/1.0.0": {
+        "runtime": {
+          "007 SOLID - Liskov substitution principle [LSP][Account].dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "007 SOLID - Liskov substitution principle [LSP][Account]/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

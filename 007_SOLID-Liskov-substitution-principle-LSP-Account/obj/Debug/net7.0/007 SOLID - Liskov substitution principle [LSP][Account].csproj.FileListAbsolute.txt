@@ -1,0 +1,15 @@
+D:\Clean Code\principles\007 SOLID - Liskov substitution principle [LSP][Account]\bin\Debug\net7.0\007 SOLID - Liskov substitution principle [LSP][Account].exe
+D:\Clean Code\principles\007 SOLID - Liskov substitution principle [LSP][Account]\bin\Debug\net7.0\007 SOLID - Liskov substitution principle [LSP][Account].deps.json
+D:\Clean Code\principles\007 SOLID - Liskov substitution principle [LSP][Account]\bin\Debug\net7.0\007 SOLID - Liskov substitution principle [LSP][Account].runtimeconfig.json
+D:\Clean Code\principles\007 SOLID - Liskov substitution principle [LSP][Account]\bin\Debug\net7.0\007 SOLID - Liskov substitution principle [LSP][Account].dll
+D:\Clean Code\principles\007 SOLID - Liskov substitution principle [LSP][Account]\bin\Debug\net7.0\007 SOLID - Liskov substitution principle [LSP][Account].pdb
+D:\Clean Code\principles\007 SOLID - Liskov substitution principle [LSP][Account]\obj\Debug\net7.0\007 SOLID - Liskov substitution principle [LSP][Account].csproj.AssemblyReference.cache
+D:\Clean Code\principles\007 SOLID - Liskov substitution principle [LSP][Account]\obj\Debug\net7.0\007 SOLID - Liskov substitution principle [LSP][Account].GeneratedMSBuildEditorConfig.editorconfig
+D:\Clean Code\principles\007 SOLID - Liskov substitution principle [LSP][Account]\obj\Debug\net7.0\007 SOLID - Liskov substitution principle [LSP][Account].AssemblyInfoInputs.cache
+D:\Clean Code\principles\007 SOLID - Liskov substitution principle [LSP][Account]\obj\Debug\net7.0\007 SOLID - Liskov substitution principle [LSP][Account].AssemblyInfo.cs
+D:\Clean Code\principles\007 SOLID - Liskov substitution principle [LSP][Account]\obj\Debug\net7.0\007 SOLID - Liskov substitution principle [LSP][Account].csproj.CoreCompileInputs.cache
+D:\Clean Code\principles\007 SOLID - Liskov substitution principle [LSP][Account]\obj\Debug\net7.0\007 SOLID - Liskov substitution principle [LSP][Account].dll
+D:\Clean Code\principles\007 SOLID - Liskov substitution principle [LSP][Account]\obj\Debug\net7.0\refint\007 SOLID - Liskov substitution principle [LSP][Account].dll
+D:\Clean Code\principles\007 SOLID - Liskov substitution principle [LSP][Account]\obj\Debug\net7.0\007 SOLID - Liskov substitution principle [LSP][Account].pdb
+D:\Clean Code\principles\007 SOLID - Liskov substitution principle [LSP][Account]\obj\Debug\net7.0\007 SOLID - Liskov substitution principle [LSP][Account].genruntimeconfig.cache
+D:\Clean Code\principles\007 SOLID - Liskov substitution principle [LSP][Account]\obj\Debug\net7.0\ref\007 SOLID - Liskov substitution principle [LSP][Account].dll

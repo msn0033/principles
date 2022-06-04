@@ -1,0 +1,15 @@
+D:\Clean Code\principles\006  Open Closed Principle [OCP] [Question]\bin\Debug\net7.0\006  Open Closed Principle [OCP] [Question].exe
+D:\Clean Code\principles\006  Open Closed Principle [OCP] [Question]\bin\Debug\net7.0\006  Open Closed Principle [OCP] [Question].deps.json
+D:\Clean Code\principles\006  Open Closed Principle [OCP] [Question]\bin\Debug\net7.0\006  Open Closed Principle [OCP] [Question].runtimeconfig.json
+D:\Clean Code\principles\006  Open Closed Principle [OCP] [Question]\bin\Debug\net7.0\006  Open Closed Principle [OCP] [Question].dll
+D:\Clean Code\principles\006  Open Closed Principle [OCP] [Question]\bin\Debug\net7.0\006  Open Closed Principle [OCP] [Question].pdb
+D:\Clean Code\principles\006  Open Closed Principle [OCP] [Question]\obj\Debug\net7.0\006  Open Closed Principle [OCP] [Question].csproj.AssemblyReference.cache
+D:\Clean Code\principles\006  Open Closed Principle [OCP] [Question]\obj\Debug\net7.0\006  Open Closed Principle [OCP] [Question].GeneratedMSBuildEditorConfig.editorconfig
+D:\Clean Code\principles\006  Open Closed Principle [OCP] [Question]\obj\Debug\net7.0\006  Open Closed Principle [OCP] [Question].AssemblyInfoInputs.cache
+D:\Clean Code\principles\006  Open Closed Principle [OCP] [Question]\obj\Debug\net7.0\006  Open Closed Principle [OCP] [Question].AssemblyInfo.cs
+D:\Clean Code\principles\006  Open Closed Principle [OCP] [Question]\obj\Debug\net7.0\006  Open Closed Principle [OCP] [Question].csproj.CoreCompileInputs.cache
+D:\Clean Code\principles\006  Open Closed Principle [OCP] [Question]\obj\Debug\net7.0\006  Open Closed Principle [OCP] [Question].dll
+D:\Clean Code\principles\006  Open Closed Principle [OCP] [Question]\obj\Debug\net7.0\refint\006  Open Closed Principle [OCP] [Question].dll
+D:\Clean Code\principles\006  Open Closed Principle [OCP] [Question]\obj\Debug\net7.0\006  Open Closed Principle [OCP] [Question].pdb
+D:\Clean Code\principles\006  Open Closed Principle [OCP] [Question]\obj\Debug\net7.0\006  Open Closed Principle [OCP] [Question].genruntimeconfig.cache
+D:\Clean Code\principles\006  Open Closed Principle [OCP] [Question]\obj\Debug\net7.0\ref\006  Open Closed Principle [OCP] [Question].dll

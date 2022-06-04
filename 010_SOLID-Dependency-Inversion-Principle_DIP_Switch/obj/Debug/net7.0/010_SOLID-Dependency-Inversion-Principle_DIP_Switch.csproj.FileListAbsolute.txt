@@ -1,0 +1,15 @@
+D:\Clean Code\principles\010_SOLID-Dependency-Inversion-Principle_DIP_Switch\bin\Debug\net7.0\010_SOLID-Dependency-Inversion-Principle_DIP_Switch.exe
+D:\Clean Code\principles\010_SOLID-Dependency-Inversion-Principle_DIP_Switch\bin\Debug\net7.0\010_SOLID-Dependency-Inversion-Principle_DIP_Switch.deps.json
+D:\Clean Code\principles\010_SOLID-Dependency-Inversion-Principle_DIP_Switch\bin\Debug\net7.0\010_SOLID-Dependency-Inversion-Principle_DIP_Switch.runtimeconfig.json
+D:\Clean Code\principles\010_SOLID-Dependency-Inversion-Principle_DIP_Switch\bin\Debug\net7.0\010_SOLID-Dependency-Inversion-Principle_DIP_Switch.dll
+D:\Clean Code\principles\010_SOLID-Dependency-Inversion-Principle_DIP_Switch\bin\Debug\net7.0\010_SOLID-Dependency-Inversion-Principle_DIP_Switch.pdb
+D:\Clean Code\principles\010_SOLID-Dependency-Inversion-Principle_DIP_Switch\obj\Debug\net7.0\010_SOLID-Dependency-Inversion-Principle_DIP_Switch.csproj.AssemblyReference.cache
+D:\Clean Code\principles\010_SOLID-Dependency-Inversion-Principle_DIP_Switch\obj\Debug\net7.0\010_SOLID-Dependency-Inversion-Principle_DIP_Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clean Code\principles\010_SOLID-Dependency-Inversion-Principle_DIP_Switch\obj\Debug\net7.0\010_SOLID-Dependency-Inversion-Principle_DIP_Switch.AssemblyInfoInputs.cache
+D:\Clean Code\principles\010_SOLID-Dependency-Inversion-Principle_DIP_Switch\obj\Debug\net7.0\010_SOLID-Dependency-Inversion-Principle_DIP_Switch.AssemblyInfo.cs
+D:\Clean Code\principles\010_SOLID-Dependency-Inversion-Principle_DIP_Switch\obj\Debug\net7.0\010_SOLID-Dependency-Inversion-Principle_DIP_Switch.csproj.CoreCompileInputs.cache
+D:\Clean Code\principles\010_SOLID-Dependency-Inversion-Principle_DIP_Switch\obj\Debug\net7.0\010_SOLID-Dependency-Inversion-Principle_DIP_Switch.dll
+D:\Clean Code\principles\010_SOLID-Dependency-Inversion-Principle_DIP_Switch\obj\Debug\net7.0\refint\010_SOLID-Dependency-Inversion-Principle_DIP_Switch.dll
+D:\Clean Code\principles\010_SOLID-Dependency-Inversion-Principle_DIP_Switch\obj\Debug\net7.0\010_SOLID-Dependency-Inversion-Principle_DIP_Switch.pdb
+D:\Clean Code\principles\010_SOLID-Dependency-Inversion-Principle_DIP_Switch\obj\Debug\net7.0\010_SOLID-Dependency-Inversion-Principle_DIP_Switch.genruntimeconfig.cache
+D:\Clean Code\principles\010_SOLID-Dependency-Inversion-Principle_DIP_Switch\obj\Debug\net7.0\ref\010_SOLID-Dependency-Inversion-Principle_DIP_Switch.dll

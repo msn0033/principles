@@ -1,0 +1,30 @@
+D:\Clean Code\principles\008 SOLID - Interface Segregation Principle [ISP]\bin\Debug\net7.0\008 SOLID - Interface Segregation Principle [ISP].exe
+D:\Clean Code\principles\008 SOLID - Interface Segregation Principle [ISP]\bin\Debug\net7.0\008 SOLID - Interface Segregation Principle [ISP].deps.json
+D:\Clean Code\principles\008 SOLID - Interface Segregation Principle [ISP]\bin\Debug\net7.0\008 SOLID - Interface Segregation Principle [ISP].runtimeconfig.json
+D:\Clean Code\principles\008 SOLID - Interface Segregation Principle [ISP]\bin\Debug\net7.0\008 SOLID - Interface Segregation Principle [ISP].dll
+D:\Clean Code\principles\008 SOLID - Interface Segregation Principle [ISP]\bin\Debug\net7.0\008 SOLID - Interface Segregation Principle [ISP].pdb
+D:\Clean Code\principles\008 SOLID - Interface Segregation Principle [ISP]\obj\Debug\net7.0\008 SOLID - Interface Segregation Principle [ISP].csproj.AssemblyReference.cache
+D:\Clean Code\principles\008 SOLID - Interface Segregation Principle [ISP]\obj\Debug\net7.0\008 SOLID - Interface Segregation Principle [ISP].GeneratedMSBuildEditorConfig.editorconfig
+D:\Clean Code\principles\008 SOLID - Interface Segregation Principle [ISP]\obj\Debug\net7.0\008 SOLID - Interface Segregation Principle [ISP].AssemblyInfoInputs.cache
+D:\Clean Code\principles\008 SOLID - Interface Segregation Principle [ISP]\obj\Debug\net7.0\008 SOLID - Interface Segregation Principle [ISP].AssemblyInfo.cs
+D:\Clean Code\principles\008 SOLID - Interface Segregation Principle [ISP]\obj\Debug\net7.0\008 SOLID - Interface Segregation Principle [ISP].csproj.CoreCompileInputs.cache
+D:\Clean Code\principles\008 SOLID - Interface Segregation Principle [ISP]\obj\Debug\net7.0\008 SOLID - Interface Segregation Principle [ISP].dll
+D:\Clean Code\principles\008 SOLID - Interface Segregation Principle [ISP]\obj\Debug\net7.0\refint\008 SOLID - Interface Segregation Principle [ISP].dll
+D:\Clean Code\principles\008 SOLID - Interface Segregation Principle [ISP]\obj\Debug\net7.0\008 SOLID - Interface Segregation Principle [ISP].pdb
+D:\Clean Code\principles\008 SOLID - Interface Segregation Principle [ISP]\obj\Debug\net7.0\008 SOLID - Interface Segregation Principle [ISP].genruntimeconfig.cache
+D:\Clean Code\principles\008 SOLID - Interface Segregation Principle [ISP]\obj\Debug\net7.0\ref\008 SOLID - Interface Segregation Principle [ISP].dll
+D:\Clean Code\principles\008_SOLID-Interface_Segregation _Principle_ISP\bin\Debug\net7.0\008 SOLID - Interface Segregation Principle [ISP].exe
+D:\Clean Code\principles\008_SOLID-Interface_Segregation _Principle_ISP\bin\Debug\net7.0\008 SOLID - Interface Segregation Principle [ISP].deps.json
+D:\Clean Code\principles\008_SOLID-Interface_Segregation _Principle_ISP\bin\Debug\net7.0\008 SOLID - Interface Segregation Principle [ISP].runtimeconfig.json
+D:\Clean Code\principles\008_SOLID-Interface_Segregation _Principle_ISP\bin\Debug\net7.0\008 SOLID - Interface Segregation Principle [ISP].dll
+D:\Clean Code\principles\008_SOLID-Interface_Segregation _Principle_ISP\bin\Debug\net7.0\008 SOLID - Interface Segregation Principle [ISP].pdb
+D:\Clean Code\principles\008_SOLID-Interface_Segregation _Principle_ISP\obj\Debug\net7.0\008 SOLID - Interface Segregation Principle [ISP].csproj.AssemblyReference.cache
+D:\Clean Code\principles\008_SOLID-Interface_Segregation _Principle_ISP\obj\Debug\net7.0\008 SOLID - Interface Segregation Principle [ISP].GeneratedMSBuildEditorConfig.editorconfig
+D:\Clean Code\principles\008_SOLID-Interface_Segregation _Principle_ISP\obj\Debug\net7.0\008 SOLID - Interface Segregation Principle [ISP].AssemblyInfoInputs.cache
+D:\Clean Code\principles\008_SOLID-Interface_Segregation _Principle_ISP\obj\Debug\net7.0\008 SOLID - Interface Segregation Principle [ISP].AssemblyInfo.cs
+D:\Clean Code\principles\008_SOLID-Interface_Segregation _Principle_ISP\obj\Debug\net7.0\008 SOLID - Interface Segregation Principle [ISP].csproj.CoreCompileInputs.cache
+D:\Clean Code\principles\008_SOLID-Interface_Segregation _Principle_ISP\obj\Debug\net7.0\008 SOLID - Interface Segregation Principle [ISP].dll
+D:\Clean Code\principles\008_SOLID-Interface_Segregation _Principle_ISP\obj\Debug\net7.0\refint\008 SOLID - Interface Segregation Principle [ISP].dll
+D:\Clean Code\principles\008_SOLID-Interface_Segregation _Principle_ISP\obj\Debug\net7.0\008 SOLID - Interface Segregation Principle [ISP].pdb
+D:\Clean Code\principles\008_SOLID-Interface_Segregation _Principle_ISP\obj\Debug\net7.0\008 SOLID - Interface Segregation Principle [ISP].genruntimeconfig.cache
+D:\Clean Code\principles\008_SOLID-Interface_Segregation _Principle_ISP\obj\Debug\net7.0\ref\008 SOLID - Interface Segregation Principle [ISP].dll
