@@ -2,7 +2,7 @@ using SOLID_Dependency_Inversion_Principle_DIP_Switch.After;
 
 namespace _SOLID_Dependency_Inversion_Principle_DIP_Switch.After
 {
-    public class Switchable:ISwitchable
+    public class Bulb:ISwitchable
     {
         public bool On { get; set; }=false;
         public bool TurnOff() => false;

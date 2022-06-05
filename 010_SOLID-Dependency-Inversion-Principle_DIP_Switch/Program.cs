@@ -6,13 +6,13 @@ using SOLID_Dependency_Inversion_Principle_DIP_Switch.After;
 
 
 
-Switchable obj1=new Switchable();//On turnOf TurnOn      
-ISwitch s1=new ElectricSwitch(obj1);
+Bulb bulb=new Bulb();//On turnOf TurnOn      
+ISwitch s1=new ElectricSwitch(bulb);
 
 var s=s1.Press()?"TurnOF":"TurnOn";
 System.Console.WriteLine($"\nElectricSwitch : {s}\n");
 
-obj1.On=true;
-ISwitch s2=new VoicePowerSwitch(obj1);
+bulb.On=true;
+ISwitch s2=new VoicePowerSwitch(bulb);
 var v=s2.Press()?"TurnOF":"TurnOn";
 System.Console.WriteLine($"VoicePowerSwitch : {v}\n\n");
